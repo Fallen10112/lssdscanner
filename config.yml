@@ -8,6 +8,19 @@ params:
     - name: Sheriff's Department Website
       description: ""
       link: https://lssd.gta.world
+    - name: North Los Santos
+      description: Covering districts Vinewood, Vinewood Hills, Rockford Hills,
+        Richman, Backlot City and Morningwood.
+    - name: East Los Santos
+      description: Covering districts La Mesa, Murrieta Oil Field, Mirror Park.
+    - name: Central Los Santos
+      description: Covering districts around Downtown Los Santos
+    - name: South Los Santos
+      description: "Covering districts La Puerta, Port of Los Santos, LISA. "
+    - name: West Los Santos
+      description: Covering districts Vespucci, Del Perro, Little Seoul, Pacific Bluffs.
+    - name: Blaine County
+      description: Covering districts Sandy Shores and Paleto Bay.
   dateFormat: January 2, 2006 at 14:45 (( Server Time ))
   disqusShortname: ""
   timezoneString: " UTC"
