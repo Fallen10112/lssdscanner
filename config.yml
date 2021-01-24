@@ -17,8 +17,8 @@ params:
     Department</a> operations and ongoing incidents.<br />Follow us <a
     class='text-grey-darkest' title='Visit our page on FaceBrowser'
     href='https://face.gta.world/pages/lscosheriff'>on FaceBrowser</a>. <br />
-    <a class='text-grey-darkest' href='%s' >Subscribe to RSS</a><br />to be
-    alerted of new events.
+    <a class='text-grey-darkest' href='%s' >Subscribe to RSS</a> to be alerted
+    of new events.
   copyrightHolder: Los Santos Sheriff's Department
   eventsPerPage: 10
   iconType: image/png
