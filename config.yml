@@ -9,7 +9,7 @@ params:
       description: ""
       link: https://lssd.gta.world
   dateFormat: January 2, 2006 at 20:44
-  disqusShortname: LSSD
+  disqusShortname: ""
   timezoneString: " UTC"
   logo: /images/clearstatus.svg
   description_header: Information about the <a class='text-grey-darkest'
