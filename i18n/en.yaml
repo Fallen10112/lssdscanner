@@ -28,21 +28,21 @@
 - id: isMonitoring
   translation: There may be an ongoing incident...
 - id: isMaintenance
-  translation: There is an ongoing state-wide event involving the LSFD...
+  translation: There is an ongoing state-wide event involving the Sheriff's Department...
 - id: isOk
   translation: There are currently no ongoing incidents.
 
 # Components list status
 - id: disrupted
-  translation: LVL1
+  translation: MINOR
 - id: down
-  translation: LVL2
+  translation: MAJOR
 - id: ok
-  translation: LVL0
+  translation: OK
 - id: monitoring
-  translation: Unknown
+  translation: TBC
 - id: maintenance
-  translation: Event
+  translation: TBC
 
 # Events
 - id: incidentHistory
@@ -56,7 +56,7 @@
 - id: noEventsTitle
   translation: No incidents to be reported.
 - id: noEventsDesc
-  translation: The Public Relations Division has not logged any incident so far!
+  translation: No events have currently been logged.
 
 - id: prev
   translation: More recent
