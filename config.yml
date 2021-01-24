@@ -8,7 +8,7 @@ params:
     - name: Sheriff's Department Website
       description: ""
       link: https://lssd.gta.world
-  dateFormat: January 2, 2006 at 20:44
+  dateFormat: January 2, 2006 at 14:44
   disqusShortname: ""
   timezoneString: " UTC"
   logo: /images/clearstatus.svg
