@@ -25,13 +25,18 @@ params:
   disqusShortname: ""
   timezoneString: " UTC"
   logo: /images/uploads/g66.png
-  description_header: Information about the <a class='text-grey-darkest'
-    title='Visit Main Site' href='https://lssd.gta.world'>Los Santos Sheriff's
-    Department</a> operations and ongoing incidents.<br />Follow us <a
-    class='text-grey-darkest' title='Visit our page on FaceBrowser'
-    href='https://face.gta.world/pages/lscosheriff'>on FaceBrowser</a>. <br />
-    <a class='text-grey-darkest' href='%s' >Subscribe to RSS</a> to be alerted
-    of new events.
+  description_header: >-
+    Information about the <a class='text-grey-darkest' title='Visit Main Site'
+    href='https://lssd.gta.world'>Los Santos Sheriff's Department</a> operations
+    and ongoing incidents.
+
+    <br /><br/>
+
+    Follow us <a class='text-grey-darkest' title='Visit our page on FaceBrowser' href='https://face.gta.world/pages/lscosheriff'>on FaceBrowser</a>. 
+
+    <br />
+
+    <a class='text-grey-darkest' href='%s' >Subscribe to RSS</a> to be alerted of new events.
   copyrightHolder: Los Santos Sheriff's Department
   eventsPerPage: 10
   iconType: image/png
@@ -42,6 +47,6 @@ params:
     respective owners. GTA WORLD reserves all rights on rightly owned images and
     other visual content provided on GTA.WORLD.
 
-    <br/>
+    <br/><br/>
 
     This website was created using a framework called clearstatus, view the source code of the website <a class='text-grey-darkest' title='Visit GitHub' href='https://github.com/biscuitgtaw/clearstatus'>here.</a>
