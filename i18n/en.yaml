@@ -42,7 +42,7 @@
 - id: monitoring
   translation: TBC
 - id: maintenance
-  translation: TBC
+  translation: EVENT
 
 # Events
 - id: incidentHistory
