@@ -16,8 +16,8 @@ collections:
     slug: "{{ .Site.Params.NetlifySlug }}"
     fields:
       - {label: "Section", name: "section", widget: "hidden", default: "issue"}
-      - {label: "Title", name: "title", widget: "string", hint: "A short descriptive title for the event."}
-      - {label: "Date", name: "date", widget: "datetime", hint: "The date and time at which the event started or is scheduled."}
+      - {label: "Title", name: "title", widget: "string", hint: "A short descriptive title for the incident."}
+      - {label: "Date", name: "date", widget: "datetime", hint: "The date and time at which the incident started or is scheduled."}
       - label: "Status"
         name: "status"
         hint: "The current state of the incident."
@@ -44,25 +44,25 @@ collections:
         default: "monitoring"
         options:
           - { label: "Unknown", value: "monitoring" }
-          - { label: "Level 0 Incident", value: "ok" }
-          - { label: "Level 1 Incident", value: "disrupted" }
-          - { label: "Level 2 Incident", value: "down" }
-          - { label: "Event", value: "maintenance" }
+          - { label: "OK", value: "ok" }
+          - { label: "MINOR", value: "disrupted" }
+          - { label: "MAJOR", value: "down" }
+          - { label: "EVENT", value: "maintenance" }
       - label: "Max severity"
         name: "max_severity"
-        hint: "What was the maximum severity of the event until its resolution. Used when the event is displayed in the Past events section."
+        hint: "What was the maximum severity of the incident until its resolution. Used when the incident is displayed in the Past incidents section."
         widget: "select"
         default: "monitoring"
         options:
           - { label: "Unknown", value: "monitoring" }
-          - { label: "Level 0 Incident", value: "ok" }
-          - { label: "Level 1 Incident", value: "disrupted" }
-          - { label: "Level 2 Incident", value: "down" }
-          - { label: "Event", value: "maintenance" }
+          - { label: "OK", value: "ok" }
+          - { label: "MINOR", value: "disrupted" }
+          - { label: "MAJOR", value: "down" }
+          - { label: "EVENT", value: "maintenance" }
       - label: "Duration"
         name: "duration"
         required: false
-        hint: "Expected duration for the event. Only used for <scheduled> events. This is free text: ie 5mn, 1h, 1 hour,.."
+        hint: "Expected duration for the incident. Only used for <scheduled> events. This is free text: ie 5mn, 1h, 1 hour,.."
         widget: "string"
         default: ""
       - label: "Resolved on"
@@ -71,9 +71,9 @@ collections:
         widget: "datetime"
         default: ""
         hint: ""
-      - label: "Affected regions"
+      - label: "Affected districts"
         name: "affected"
-        hint: "Which of your regions are affected by the event."
+        hint: "Which districts are affected by the event."
         widget: "select"
         multiple: true
         options:
@@ -84,9 +84,9 @@ collections:
         hint: "Enable/disable comments on this incident. This should only be enabled by PIO+."
         widget: "boolean"
         default: false
-      - label: "Event description"
+      - label: "Incident description"
         name: "body"
         required: false
-        hint: "Description of the event as it happens and what you do about it. You can come back several times and update that description."
+        hint: "Description of the event as it happens and what you do about it. You can come back several times and update the description."
         widget: "markdown"
         default: ""
