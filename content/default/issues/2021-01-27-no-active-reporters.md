@@ -3,7 +3,7 @@ section: issue
 title: No active reporters
 date: 2021-01-27T23:53:04.558Z
 status: in_progress
-pinned: ""
+pinned: top
 current_severity: maintenance
 max_severity: maintenance
 duration: ""
