@@ -42,6 +42,7 @@ params:
   iconType: image/png
   icon: /images/clearstatus.png
   description_footer: >-
+    <p style="font-size:11px">
     GTA World is not affiliated with or endorsed by Rockstar North, Take-Two
     Interactive or other rightsholders. Any trademarks used belong to their
     respective owners. GTA WORLD reserves all rights on rightly owned images and
@@ -50,3 +51,4 @@ params:
     <br/><br/>
 
     This website was created using a framework called clearstatus, view the source code of the website <a class='text-grey-darkest' title='Visit GitHub' href='https://github.com/Fallen10112/lssdscanner'>here.</a>
+    </p>
