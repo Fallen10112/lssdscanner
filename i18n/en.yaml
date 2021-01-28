@@ -56,7 +56,7 @@
 - id: noEventsTitle
   translation: No incidents to be reported.
 - id: noEventsDesc
-  translation: No events have currently been logged.
+  translation: No incidents have currently been logged.
 
 - id: prev
   translation: More recent
@@ -95,5 +95,5 @@
 # This string will be displayed after each time displayed
 # Set it for instance to " UTC" to indicate UTC times
 # or a specific time zone, ie " America/New_York"
-#- id: timezoneString
-#  translation: ""
+- id: timezoneString
+  translation: "(( UTC / SERVER TIME ))"
