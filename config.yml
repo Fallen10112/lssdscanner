@@ -23,7 +23,7 @@ params:
       description: Covering districts Sandy Shores and Paleto Bay.
   dateFormat: "January 2, 2006 at 15:04"
   disqusShortname: ""
-  timezoneString: " (( UTC / SERVER TIME ))"
+  timezoneString: " (( UTC / Server time ))"
   logo: /images/uploads/g66.png
   description_header: >-
     Information about the <a class='text-grey-darkest' title='Visit Main Site'
