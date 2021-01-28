@@ -21,7 +21,7 @@ params:
       description: Covering districts Vespucci, Del Perro, Little Seoul, Pacific Bluffs.
     - name: Blaine County
       description: Covering districts Sandy Shores and Paleto Bay.
-  dateFormat: January 2, 2006 at 14:45 (( Server Time ))
+  dateFormat: January 2, 2006 at 14:45
   disqusShortname: ""
   timezoneString: " UTC"
   logo: /images/uploads/g66.png
