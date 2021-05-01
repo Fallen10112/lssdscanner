@@ -12,4 +12,4 @@ affected:
   - Blaine County
 enableComments: false
 ---
-A woman has been shot down by Sandy Shores. Deputies responded to the incidents with a Detective to handle the case. The woman was taken by the Fire Department, her life is not in danger anymore. The suspect remains on the loose.
+A woman has been shot down by Sandy Shores.
