@@ -3,7 +3,7 @@ section: issue
 title: Deputy involved in a fight
 date: 2021-05-01T15:46:00.000Z
 status: resolved
-pinned: belowheader
+pinned: null
 current_severity: down
 max_severity: monitoring
 duration: ""
