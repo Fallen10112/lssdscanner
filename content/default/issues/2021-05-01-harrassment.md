@@ -4,8 +4,8 @@ title: Harrassment
 date: 2021-05-01T20:20:00.000Z
 status: resolved
 pinned: ""
-current_severity: ok
-max_severity: ok
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
 resolved_on: 2021-05-01T20:27:19.122Z
 affected:
