@@ -3,7 +3,7 @@ section: issue
 title: Animal Attack
 date: 2021-05-01T16:10:00.000Z
 status: resolved
-pinned: belowheader
+pinned: null
 current_severity: down
 max_severity: down
 duration: ""
