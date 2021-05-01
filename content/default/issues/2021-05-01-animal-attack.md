@@ -2,7 +2,7 @@
 section: issue
 title: Animal Attack
 date: 2021-05-01T16:10:00.000Z
-status: in_progress
+status: resolved
 pinned: belowheader
 current_severity: ok
 max_severity: ok
