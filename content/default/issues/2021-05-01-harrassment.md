@@ -12,4 +12,4 @@ affected:
   - East Los Santos
 enableComments: false
 ---
-Deputies responded to a 9-1-1 call in regards to a possible harrassment
+Deputies responded to a 9-1-1 call in regards to a possible harrassment.
