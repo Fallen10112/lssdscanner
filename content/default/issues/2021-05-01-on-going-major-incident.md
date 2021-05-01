@@ -3,7 +3,7 @@ section: issue
 title: On-going major incident
 date: 2021-05-01T18:12:23.200Z
 status: in_progress
-pinned: belowheader
+pinned: null
 current_severity: down
 max_severity: monitoring
 duration: ""
