@@ -4,10 +4,10 @@ title: Deceased Male Located
 date: 2021-05-02T06:19:00.000Z
 status: resolved
 pinned: ""
-current_severity: ok
-max_severity: ok
-duration: 20 minutes
-resolved_on: 2021-05-01T14:00:00.000Z
+current_severity: monitoring
+max_severity: monitoring
+duration: ""
+resolved_on: 2021-05-02T06:30:00.000Z
 affected:
   - South Los Santos
 enableComments: false
