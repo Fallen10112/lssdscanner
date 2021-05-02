@@ -12,6 +12,6 @@ affected:
   - North Los Santos
 enableComments: false
 ---
-Units responding: 223A, 227T1, 240K94, 227K, 
+Units responding: 223A; 227T1; 240K94; 227K
 
 Summary: A pursuit started in the North part of Los Santos for a vehicle evading a peace officer.
