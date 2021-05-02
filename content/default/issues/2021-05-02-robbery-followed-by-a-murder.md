@@ -2,7 +2,7 @@
 section: issue
 title: Robbery followed by a murder
 date: 2021-05-02T11:38:00.000Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: ok
 max_severity: down
