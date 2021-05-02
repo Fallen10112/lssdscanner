@@ -2,7 +2,7 @@
 section: issue
 title: Man with a Hammer
 date: 2021-05-02T03:23:45.868Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: monitoring
