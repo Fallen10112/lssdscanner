@@ -1,20 +1,15 @@
 ---
 section: issue
-title: No active reporters
+title: Graffiti
 date: 2021-05-02T00:38:15.974Z
-status: in_progress
-pinned: top
-current_severity: maintenance
-max_severity: monitoring
+status: resolved
+pinned: null
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-05-02T02:54:09.487Z
 affected:
-  - Sheriff's Department Website
-  - North Los Santos
-  - East Los Santos
-  - Central Los Santos
   - South Los Santos
-  - West Los Santos
-  - Blaine County
 enableComments: false
 ---
+Investigation into graffiti markings in Chamberlain Hills.
