@@ -14,5 +14,4 @@ enableComments: false
 ---
 Units responding: 229T1; 222K; 220G6; D4A3; D4A4
 
-
-Summary: A Robbery was reported down by Little Seoul, which was followed by a self-defense situation. Deputies responded to the 9-1-1 call and began their investigation, leading to the arrest of one robber for Robbery and Attempted Murder.
+Summary: A Robbery was reported down by Little Seoul, which was followed by a self-defense situation. Deputies responded to the 9-1-1 call and began their investigation, leading to the arrest of one suspect for Robbery and Attempted Murder.
