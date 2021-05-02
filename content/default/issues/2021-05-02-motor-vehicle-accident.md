@@ -2,7 +2,7 @@
 section: issue
 title: Motor Vehicle Accident
 date: 2021-05-02T15:39:06.055Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
