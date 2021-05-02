@@ -4,7 +4,7 @@ title: Injured male in road
 date: 2021-05-02T03:05:27.930Z
 status: resolved
 pinned: null
-current_severity: ok
+current_severity: disrupted
 max_severity: monitoring
 duration: ""
 resolved_on: 2021-05-02T03:15:40.890Z
