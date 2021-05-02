@@ -14,4 +14,4 @@ enableComments: false
 ---
 Units responding: D4A3; D4A4; 229T1; 240K91; 223A; AIR20; 225K
 
-Summary: A Deputy was involved in a shooting down Vespucci Canals with three suspects involved.
+Summary: A Deputy was involved in a shooting down Vespucci Canals with three suspects.
