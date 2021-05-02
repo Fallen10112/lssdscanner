@@ -16,7 +16,7 @@ params:
     - name: Central Los Santos
       description: Covering districts around Downtown Los Santos
     - name: South Los Santos
-      description: "Covering districts La Puerta, Port of Los Santos, LISA. "
+      description: "Covering districts La Puerta, Port of Los Santos, LSIA. "
     - name: West Los Santos
       description: Covering districts Vespucci, Del Perro, Little Seoul, Pacific Bluffs.
     - name: Blaine County
