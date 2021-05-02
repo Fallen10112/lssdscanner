@@ -12,6 +12,6 @@ affected:
   - Central Los Santos
 enableComments: false
 ---
-LSSD and LSPD patrol units responding to a 911 call on 02/MAY/2021 at 06:35 hours regarding a police cruiser in the middle of the intersection on Adam Apple Boulevard / Power Street with an unconscious Deputy Sheriff located in the driver's seat. Los Santos Fire Department on-scene and providing medical care and extraction services. 
+LSSD and LSPD patrol units responding to a 911 call on 02/MAY/2021 at 06:15 hours regarding a police cruiser in the middle of the intersection on Adam Apple Boulevard / Power Street with an unconscious Deputy Sheriff located in the driver's seat. Los Santos Fire Department on-scene and providing medical care and extraction services. 
 
 Intersection is closed.
