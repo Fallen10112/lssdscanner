@@ -13,3 +13,7 @@ affected:
 enableComments: false
 ---
 Injured male in the street.
+
+03:08 - LSFD arrived.
+
+03:10 - Male announced DOA. Coroners called.
