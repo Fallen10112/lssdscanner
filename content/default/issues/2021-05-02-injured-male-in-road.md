@@ -3,7 +3,7 @@ section: issue
 title: Injured male in road
 date: 2021-05-02T03:05:27.930Z
 status: in_progress
-pinned: belowheader
+pinned: top
 current_severity: disrupted
 max_severity: monitoring
 duration: ""
