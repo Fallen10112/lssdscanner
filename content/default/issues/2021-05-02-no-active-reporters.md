@@ -1,7 +1,7 @@
 ---
 section: issue
 title: Graffiti
-date: 2021-05-02T00:38:15.974Z
+date: 2021-05-02T02:50:00.000Z
 status: resolved
 pinned: null
 current_severity: disrupted
