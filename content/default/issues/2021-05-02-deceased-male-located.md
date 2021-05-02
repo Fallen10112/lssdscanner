@@ -4,8 +4,8 @@ title: Deceased Male Located
 date: 2021-05-02T06:19:00.000Z
 status: resolved
 pinned: ""
-current_severity: monitoring
-max_severity: monitoring
+current_severity: disrupted
+max_severity: disrupted
 duration: ""
 resolved_on: 2021-05-02T06:30:00.000Z
 affected:
