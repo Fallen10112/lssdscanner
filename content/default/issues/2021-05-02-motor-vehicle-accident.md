@@ -5,11 +5,13 @@ date: 2021-05-02T15:39:06.055Z
 status: in_progress
 pinned: ""
 current_severity: disrupted
-max_severity: monitoring
+max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-05-02T16:15:12.654Z
 affected:
   - North Los Santos
 enableComments: false
 ---
-There is currently an ongoing incident in relation to a vehicle collision in BURTON. Please avoid the local area and expect diversions and slow traffic.
+Units responding: 229T1
+
+Summary: A vehicle crashed on the side of the road. Deputies responded to the 9-1-1 call that followed and administered scene security for the LSFD.
