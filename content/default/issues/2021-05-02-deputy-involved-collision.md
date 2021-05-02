@@ -1,13 +1,13 @@
 ---
 section: issue
-title: "Deputy Involved Collision "
-date: 2021-05-02T06:30:18.598Z
-status: in_progress
+title: Deputy Involved Traffic Accident
+date: 2021-05-02T06:15:00.000Z
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
-duration: ""
-resolved_on: ""
+duration: 28 minutes
+resolved_on: 2021-05-02T06:48:00.000Z
 affected:
   - Central Los Santos
 enableComments: false
