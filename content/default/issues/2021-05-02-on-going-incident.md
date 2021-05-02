@@ -2,7 +2,7 @@
 section: issue
 title: Deputy involved in a shooting
 date: 2021-05-02T17:43:39.048Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: down
 max_severity: down
