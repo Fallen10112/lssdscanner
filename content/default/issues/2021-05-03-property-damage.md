@@ -2,7 +2,7 @@
 section: issue
 title: Property Damage
 date: 2021-05-03T10:35:49.821Z
-status: in_progress
+status: resolved
 pinned: ""
 current_severity: disrupted
 max_severity: disrupted
