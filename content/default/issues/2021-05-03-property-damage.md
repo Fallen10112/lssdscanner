@@ -5,9 +5,9 @@ date: 2021-05-03T10:35:49.821Z
 status: in_progress
 pinned: ""
 current_severity: disrupted
-max_severity: monitoring
+max_severity: disrupted
 duration: ""
-resolved_on: ""
+resolved_on: 2021-05-03T10:43:00.000Z
 affected:
   - West Los Santos
 enableComments: false
@@ -17,6 +17,6 @@ enableComments: false
 **Incident Headline:** 911 Callout regarding damage to private property
 
 **Units responding:** 222K
-**Summary:** TBC
+**Summary:** Unit responded to Vespucci Canals, statement taken from witness. No evidence of further crime found.
 
-**Date/Time concluded:** TBC
+**Date/Time concluded:** 03/APR/2021 10:43
