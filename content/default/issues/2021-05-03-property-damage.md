@@ -16,7 +16,7 @@ enableComments: false
 **Location:** Vespucci, West Los Santos
 **Incident Headline:** 911 Callout regarding damage to private property
 
-**Units responding:** TBC
+**Units responding:** 222K
 **Summary:** TBC
 
 **Date/Time concluded:** TBC
